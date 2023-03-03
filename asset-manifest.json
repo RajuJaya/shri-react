@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shri-react/static/css/main.a9db5e7d.css",
+    "main.css": "/shri-react/static/css/main.a4b7141c.css",
     "main.js": "/shri-react/static/js/main.f9f57773.js",
     "static/media/img1.png": "/shri-react/static/media/img1.628119c2eefe2585146f.png",
     "static/media/network.png": "/shri-react/static/media/network.64344b4bf2e414cf1aa3.png",
@@ -9,11 +9,11 @@
     "static/media/web.png": "/shri-react/static/media/web.8fe08b1234cb4690c45b.png",
     "static/media/logo.png": "/shri-react/static/media/logo.d77e623d3edd56c75138.png",
     "index.html": "/shri-react/index.html",
-    "main.a9db5e7d.css.map": "/shri-react/static/css/main.a9db5e7d.css.map",
+    "main.a4b7141c.css.map": "/shri-react/static/css/main.a4b7141c.css.map",
     "main.f9f57773.js.map": "/shri-react/static/js/main.f9f57773.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9db5e7d.css",
+    "static/css/main.a4b7141c.css",
     "static/js/main.f9f57773.js"
   ]
 }
